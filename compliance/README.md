@@ -41,6 +41,10 @@ humanitarian organizations.
 - Recommendations of integrating security tooling with compliance tooling and processes - making both the synergies and unique separations of concern explicit and achieving community consensus.
 - Growing CNCF external relationships with interested parties, e.g. NIST and other compliance standards bodies such as FINOS, OSCAL, OpenSSF
 
+## Whitepapers
+[DRAFT] Compliance Use Cases WP - https://docs.google.com/document/d/1l_4HHtYVXG2dG5Y1WRzmMrdt_IcTqMHPL8u6ZQ1Zc9A
+
+
 ## Stakeholders/Key people - Roles and responsibilities
 
 <!-- cSpell:disable -->
@@ -66,3 +70,5 @@ humanitarian organizations.
 - Yuji Watanabe ([@yuji-watanabe-jp](https://github.com/yuji-watanabe-jp))
 
 - Takumi Yanagawa ([@yana1205](https://github.com/yana1205))
+
+- Hubbert Smith ([@hubbertsmith](https://github.com/yana1205))
